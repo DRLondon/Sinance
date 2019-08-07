@@ -1,0 +1,1 @@
+Simpe Stock Showcase Application
